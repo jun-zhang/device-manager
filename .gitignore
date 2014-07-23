@@ -1,0 +1,5 @@
+src/core/*.o
+src/lib/ydevicemanager/*.pyc
+src/share/locale/
+!.git*
+.git/
